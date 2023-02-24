@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @RBP01!
-- 👀 I’m interested in video games, and that is what first interested me in programming.
-- 🌱 I’m currently learning Python.
-
-I am a beginner at programming. I know a little bit of Python, but only the basics. I am excited to learn more!
+- I know Python pretty well
+- I know Java pretty well
+- I know HTML pretty well
+- I have programmed in C++ a little bit but I don't remember much
+- I have programmed in JavaScript and I hate it
+- I am learning C
